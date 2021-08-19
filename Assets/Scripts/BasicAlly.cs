@@ -18,7 +18,7 @@ public class BasicAlly : MonoBehaviour
     public int attack1Damage = 1;
     public float timeBetweenAttacks;
 
-
+    //mimi
     // Use this for initialization
     void Start()
     {
